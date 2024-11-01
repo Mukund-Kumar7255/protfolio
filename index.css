@@ -58,4 +58,21 @@ nav ul li{
     max-width: 80vw;
     margin: auto;
     font-size: 1rem;
+    
+}
+.secondsection gray{
+    margin-bottom: 1%;
+    font-size: 0.25rem;
+}
+.secondsection h1{
+    margin-top: 2%;
+    font-size: 1.5rem;
+}
+.secondsection h6 par{
+    position: absolute;
+}
+
+.degree{
+    display: flex;
+    justify-content: space-between;
 }
